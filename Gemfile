@@ -19,6 +19,8 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'purecss'
 
+gem "font-awesome-rails"
+
 group :production do
   gem 'pg'
   gem 'rails_12factor'
